@@ -66,6 +66,10 @@ desde diferentes dispositivos, es algo que aun estoy trabajando y que le doy muc
 
 - [MDN Web Docs](https://developer.mozilla.org/es/) - Suelo usar este recurso porque explica muy bien todo además de que tiene una documentación muy amplia.
 
+- [Markdown Guide](https://www.markdownguide.org/) - Este es un buen sitio para poder aprender a usar este tipo de archivos markdown.
+
+- [Lenguaje CSS](https://lenguajecss.com/) - Es un sitio web que explica en español multiples cosas del desarrollo web, tiene **CSS**,**HTML**,**JAVASCRIPT**, **SVG** etc.
+
 ## Autor
 
 - Codepen - [@boudgnosis](https://codepen.io/boudgnosis)
