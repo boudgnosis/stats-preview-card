@@ -23,8 +23,8 @@ Esta es una solución al [Desafío de la tarjeta de vista previa de las estadís
 
 ### Enlaces
 
-- URL de la solución (Frontend Mentor): [Solución en Frontend Mentor](https://your-solution-url.com)
-- URL del sitio en vivo: [En vivo](https://your-live-site-url.com)
+- URL de la solución (Frontend Mentor): [Solución en Frontend Mentor](https://www.frontendmentor.io/solutions/stats-preview-card-PjU9dh_PHf)
+- URL del sitio en vivo: [En vivo](https://boudgnosis.github.io/stats-preview-card/)
 
 ## Mi Proceso
 
